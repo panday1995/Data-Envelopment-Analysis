@@ -8,4 +8,4 @@ Available functions include:
 
 - Directional distance function with undesirable output
 - Zero-sum gains data envelopment analysis
-
+- Mamlquist Luenberger Index and its decomposition
