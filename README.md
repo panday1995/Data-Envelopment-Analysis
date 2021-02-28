@@ -8,7 +8,7 @@ Available functions include:
 
 - Directional distance function with undesirable output
 - Zero-sum gains data envelopment analysis
-- Mamlquist Luenberger Index and its decomposition
+- Mamlquist Luenberger Index and its decomposition to technological change and efficiency change
 
 Please consider cite the following articles if the codes is helpful:
 
